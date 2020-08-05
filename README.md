@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=vansh-tiwari&count_private=true&show_icons=true&hide_border=true&theme=buefy" />
 
-<img align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-tiwari&layout=compact&hide_border=true" />
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-tiwari&hide_border=true" />
 
 [hackerrank]: https://www.hackerrank.com/vanshtiwari
 [website]: http://vanshtiwari.me

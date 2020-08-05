@@ -31,7 +31,10 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools:
-
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
+<img align="left" alt="BeautifulSoup4" width="26px" src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg" />
+<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -40,7 +43,9 @@ Here are some ideas to get you started:
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+
 
 <br />
 <br />
@@ -59,12 +64,15 @@ Here are some ideas to get you started:
 - Script to organise the files of directory on the basis of their extensions.
 - [Source code](https://github.com/vansh-tiwari/filesarranger)
 
+#### Eyebrite
+- An android app for parents to control the brightness of their child's device.
+- [Play Store](https://play.google.com/store/apps/details?id=me.vansh.eyebrite)
 
 ---
 
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=vansh-tiwari&show_icons=true&hide_border=true" />
 
-[hackerrank]: http://https://www.hackerrank.com/vanshtiwari
+[hackerrank]: https://www.hackerrank.com/vanshtiwari
 [website]: http://vanshtiwari.me
 [twitter]: https://twitter.com/vanshtiwari_me
 [youtube]: https://youtube.com/HRTUTORIALS

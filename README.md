@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Raghuvansh 👋
 
-## I'm a student.
+## As long as I am learning, I'm a student.
 - 🌱 I’m currently working on AngularJS
 - 🥅 Current Goals: Trying to contribute to Open Source projects
 - ⚡ Fun fact: I learn from TV shows/Anime/Manwas/Mangas

@@ -72,5 +72,5 @@ Here are some ideas to get you started:
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-tiwari&hide_border=true&theme=buefy" />
 
 [hackerrank]: https://www.hackerrank.com/vanshtiwari
-[linkedin]: https://linkedin.com/in/vanshtiwari-me
+[linkedin]: https://linkedin.com/in/vansh-tiwari
 [quora]: https://www.quora.com/profile/Raghuvansh-Mani-Tiwari

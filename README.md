@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 ### Hi there, I'm Raghuvansh 👋
 
 ## As long as I am learning, I'm a student.
-- 🌱 I’m currently working on Angular
+- 🌱 I’m currently working on React
 - 🥅 Current Goals: Trying to contribute to Open Source projects
-- ⚡ Fun fact: I learn from TV shows/Anime/Manwas/Mangas
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]

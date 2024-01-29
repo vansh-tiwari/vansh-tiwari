@@ -1,75 +1,64 @@
-<!--
-**vansh-tiwari/vansh-tiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h6 align="center">Hi 👋! <br>I am an innovative front-end developer with over 3 years of expertise in crafting dynamic and intuitive user interfaces. Proven proficiency in JavaScript, TypeScript, and leading frontend frameworks like Angular and React.</h6>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://www.linkedin.com/in/vansh-tiwari/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/vanshtiwari" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
+</div>
 
+###
 
-### Hi there, I'm Raghuvansh 👋
+<img align="right" height="150" src="https://media1.tenor.com/m/M0na3YR-rTcAAAAd/enter-dev.gif"  />
 
-## As long as I am learning, I'm a student.
-- 🌱 I’m currently working on React
-- 🥅 Current Goals: Trying to contribute to Open Source projects
+###
 
-### Connect with me:
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="28" alt="javascript logo"  />
+  <img width="14" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="28" alt="typescript logo"  />
+  <img width="14" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="28" alt="angularjs logo"  />
+  <img width="14" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="28" alt="react logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="nodejs logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="28" alt="electron logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="28" alt="materialui logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="postgresql logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="python logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="28" alt="flask logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="28" alt="firebase logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="git logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" alt="github logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="28" alt="gitlab logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" alt="linux logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="28" alt="trello logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="28" alt="ubuntu logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" alt="vscode logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="28" alt="yarn logo"  />
+</div>
 
-<br />
+###
 
-### Languages and Tools:
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="BeautifulSoup4" width="26px" src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg" />
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+![LeetCode Stats](https://leetcard.jacoblin.cool/vansh-tiwari?theme=nord&font=Alegreya%20Sans&ext=heatmap)
 
-
-
-<br />
-<br />
-
-### 📕 Projects
-#### Trashtalk
-- A codechef profile comparator and shows common solved problems between them.
-- [Source code](https://github.com/vansh-tiwari/trashtalk)
-- [Visit](https://mytrashtalk.herokuapp.com/codechef/)
-
-#### Animozi
-- Tried to make an emotion emozi by tracking user's face.
-- [Source code](https://drive.google.com/file/d/17GqLDBmUt1gMCUqXEo7V4acDroN4s_Fj/view?usp=sharing)
-
-#### Files arranger
-- Script to organise the files of directory on the basis of their extensions.
-- [Source code](https://github.com/vansh-tiwari/filesarranger)
-
-#### Eyebrite
-- An android app for parents to control the brightness of their child's device.
-- [Play Store](https://play.google.com/store/apps/details?id=me.vansh.eyebrite)
-
----
-
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=vansh-tiwari&count_private=true&show_icons=true&hide_border=true&theme=buefy" />
-
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-tiwari&hide_border=true&theme=buefy" />
-
-[hackerrank]: https://www.hackerrank.com/vanshtiwari
-[linkedin]: https://linkedin.com/in/vansh-tiwari
-[quora]: https://www.quora.com/profile/Raghuvansh-Mani-Tiwari
+###

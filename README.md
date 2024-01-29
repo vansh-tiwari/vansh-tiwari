@@ -58,7 +58,3 @@
 </div>
 
 ###
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/vansh-tiwari?theme=nord&font=Alegreya%20Sans&ext=heatmap)
-
-###

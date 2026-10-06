@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Raghuvansh Mani Tiwari
-### Senior Solutions Engineer • Full-Stack &amp; AI Systems Architect
+### Senior Solutions Engineer • Frontend Engineer • Agentic AI Engineer
 
 📍 **Pune, India** &nbsp;•&nbsp; 💼 **5+ Years Experience** &nbsp;•&nbsp; 🚀 **AdTech &amp; FinTech**
 
@@ -177,7 +177,7 @@ My day-to-day stack centers on **React, TypeScript, Node.js, and Python**, with 
 
 ### 🤝 Let's Connect & Collaborate
 
-Whether you're looking for a **Senior Solutions Engineer**, **Full-Stack Lead**, or an **AI Solutions Architect**:
+Whether you're looking for a **Senior Solutions Engineer**, **Frontend Engineer**, or an **Agentic AI Engineer**:
 
 <div align="center">
   <p>
